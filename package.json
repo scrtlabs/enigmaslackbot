@@ -4,8 +4,7 @@
   "description": "Enigma slack bot",
   "main": "lib/enigmabot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./bin/bot.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
